@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "fraunces";
+  src: url("../assets/fonts/fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf");
+}
+
+@font-face {
+  font-family: "manrope";
+  src: url("../assets/fonts/manrope/Manrope-VariableFont_wght.ttf");
+}
+
+body {
+  color: white;
+  background-color: #fcf8ff;
+  position: relative;
+}
+
+.heading-l {
+  font-family: "fraunces";
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.heading-m {
+  font-family: "fraunces";
+  font-size: 56px;
+  font-weight: bold;
+}
+
+.heading-s {
+  font-family: "fraunces";
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.body-font {
+  font-family: "manrope";
+  font-size: 18px;
+}
