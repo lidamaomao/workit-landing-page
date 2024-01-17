@@ -1,6 +1,6 @@
 # Frontend Mentor - Workit landing page solution
 
-This is a solution to the [Workit landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Workit landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -8,13 +8,9 @@ This is a solution to the [Workit landing page challenge on Frontend Mentor](htt
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  
 - [My process](#my-process)
   - [Built with](#built-with)
-  
 - [Author](#author)
-
-  
 
 ## Overview
 
@@ -32,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/lidamaomao/workit-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [netlify.app](https://cerulean-conkies-979cda.netlify.app/)
 
 ## My process
 
@@ -43,8 +39,6 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 
 - UnoCSS
-
-  
 
 ## Author
 
